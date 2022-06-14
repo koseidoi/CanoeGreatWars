@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+	<Info>
+        <TowerStrength>1500</TowerStrength>
+        <MaxMoney>150</MaxMoney>
+        <MoneyUpSpeed>6</MoneyUpSpeed>
+        <MaxMoneyUpStep>50</MaxMoneyUpStep>
+	<MoneyUpCost>40</MoneyUpCost>
+	<MoneyUpCostStep>30</MoneyUpCostStep>
+        <TowerAttackInterval>1000</TowerAttackInterval>
+        <TowerAttack>1500</TowerAttack>
+    </Info>
+</Info>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Info>
+    <member>
+        <name>こうせい</name>
+        <level>1</level>
+        <xp>700</xp>
+        <comment>安価で生産できる基本キャラ</comment>
+        <canUse>true</canUse>   
+        <imagePath>kosei.png</imagePath>
+    </member>
+    <member>
+        <name>ようすけ</name>
+        <level>1</level>
+        <xp>800</xp>
+        <comment>体が大きく、体力がある。攻撃は雀の涙ほど</comment>
+        <canUse>true</canUse>   
+        <imagePath>yousuke.png</imagePath>
+    </member>
+    <member>
+        <name>都築</name>
+        <level>1</level>
+        <xp>900</xp>
+        <comment>体を鍛えて、体力と攻撃力の両方を備えている</comment>
+        <canUse>true</canUse>   
+        <imagePath>hikaru.png</imagePath>
+    </member>
+    <member>
+        <name>上戸</name>
+        <level>1</level>
+        <xp>1000</xp>
+        <comment>彼の能力値は未知数、いつ覚醒するかはわからない</comment>
+        <canUse>true</canUse>   
+        <imagePath>kamito.png</imagePath>
+    </member>
+</Info>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+	<member>
+		<width>100</width>
+                <height>100</height>
+		<hp>1000</hp>
+		<speed>3</speed>
+		<offensive>30</offensive>
+		<waitingTime>100</waitingTime>
+		<cost>50</cost>
+		<AttackInterval>30</AttackInterval>
+		<AttackStyle>near</AttackStyle>
+		<imagePath>kosei</imagePath>
+	</member>
+	<member>
+		<width>100</width>
+                <height>200</height>
+		<hp>1000</hp>
+		<speed>3</speed>
+		<offensive>20</offensive>
+		<waitingTime>100</waitingTime>
+		<cost>80</cost>
+		<AttackInterval>30</AttackInterval>
+		<AttackStyle>far</AttackStyle>
+		<imagePath>yousuke</imagePath>
+	</member>
+</Info>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Info>
+	<member>
+        <width>100</width>
+        <height>100</height>
+		<hp>1000</hp>
+		<speed>3</speed>
+		<Attack>40</Attack>
+        <firstWaitingTime>200</firstWaitingTime>
+		<waitingTime>400</waitingTime>
+        <AttackInterval>30</AttackInterval>
+		<imagePath>renji</imagePath>
+		<AttackStyle>near</AttackStyle>
+		<TowerStrength>1500</TowerStrength>
+	</member>
+    <member>
+        <width>100</width>
+        <height>200</height>
+		<hp>1500</hp>
+		<speed>2</speed>
+		<Attack>60</Attack>
+        <firstWaitingTime>100</firstWaitingTime>
+		<waitingTime>300</waitingTime>
+        <AttackInterval>40</AttackInterval>
+		<AttackStyle>far</AttackStyle>
+		<imagePath>yukimura</imagePath>
+	</member>
+</Info>
